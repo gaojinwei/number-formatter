@@ -1,0 +1,22 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "测试npm发布",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaojinwei/number-formatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaojinwei/number-formatter/issues"
+  },
+  "homepage": "https://github.com/gaojinwei/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
